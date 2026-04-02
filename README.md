@@ -97,6 +97,13 @@ Esta es mi colección de skills de convenciones y reglas locales. A medida que l
 | [csharp-coding-conventions.md 1.0.0 — 2026-03-24](./DotNet/.agent/skills/_shared/csharp-coding-conventions.md) | Convenciones de código para C# |
 | [dotnet-architecture-rules.md 1.0.0 — 2026-03-29](./DotNet/.agent/skills/_shared/dotnet-architecture-rules.md) | Reglas de arquitectura para .NET |
 
+### Flutter
+
+| Skill | Descripción |
+|-------|-------------|
+| [flutter-architecting-apps 1.0.0 — 2026-04-02](./Flutter/.agent/skills/_shared/flutter-architecting-apps/SKILL.md) | Arquitectura de aplicaciones Flutter siguiendo un enfoque de capas (UI, Logic, Data). |
+| [flutter-building-layouts 1.0.0 — 2026-04-02](./Flutter/.agent/skills/_shared/flutter-building-layouts/SKILL.md) | Construcción de layouts en Flutter utilizando el sistema de constraints y widgets modernos. |
+
 ### Agregar Nuevos Lenguajes
 
 Para agregar skills de otro lenguaje:
